@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Welcome! CLONE TAB NEWS 2</h1>
+    return <h1>Welcome! Compton Nigga! 😠</h1>
 }
 
 
