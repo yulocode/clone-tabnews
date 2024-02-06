@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Welcome! Compton Nigga! 😠</h1>
+    return <h1>Samantha eu te odeio</h1>
 }
 
 
